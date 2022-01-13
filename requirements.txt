@@ -5,3 +5,6 @@ pathlib
 torch
 tensorflow
 scipy
+pytorch_tabular
+torchvision
+fastai
