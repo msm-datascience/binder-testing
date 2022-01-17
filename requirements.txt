@@ -2,9 +2,5 @@ scikit-learn
 pandas
 matplotlib
 pathlib
-torch
-tensorflow
 scipy
-pytorch_tabular
-torchvision
-fastai
+
